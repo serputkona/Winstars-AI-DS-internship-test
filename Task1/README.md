@@ -97,7 +97,7 @@ cnn_classifier = MnistClassifier(algorithm='cnn')
 ### Random Forest Classifier
 
 - Uses scikit-learn's RandomForestClassifier
-- Optimized hyperparameters:
+- Optimized hyperparameters which were found with GridSearch:
   - 200 estimators (decision trees)
   - min_samples_leaf=1
   - min_samples_split=2
