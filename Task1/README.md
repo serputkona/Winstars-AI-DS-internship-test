@@ -27,27 +27,18 @@ All implementations are wrapped in a single `MnistClassifier` class that provide
 
 ### Prerequisites
 
-This project requires the following dependencies:
-
-- Python 3.6+
-- TensorFlow 2.x
-- Keras
-- scikit-learn
-- NumPy
-- Matplotlib
-- Seaborn
-
+    See requirements.txt
 ### Installation
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/mnist-classifier.git
-   cd mnist-classifier
+   git clone https://github.com/serputkona/Winstars-AI-DS-internship-test.git
+   cd Task1
    ```
 
 2. Install the required packages:
    ```
-   pip install tensorflow numpy scikit-learn matplotlib seaborn
+    pip install -r requirements.txt
    ```
 
 ## Usage
