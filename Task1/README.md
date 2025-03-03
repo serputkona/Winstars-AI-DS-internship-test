@@ -46,7 +46,6 @@ All implementations are wrapped in a single `MnistClassifier` class that provide
 ### Basic Usage
 
 ```python
-import numpy as np
 
 # Assume the classifier is already created and trained
 classifier = MnistClassifier('rf')
